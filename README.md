@@ -16,7 +16,7 @@ Setup
 Clone the repository:
 bash
 
-git clone https://github.com/yourusername/multifamily-dashboard.git
+git clone https://github.com/yourusername/Real_Estate_Dashboard_.git
 cd multifamily-dashboard
 Install required packages:
 bash
